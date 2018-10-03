@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{162:function(s,e,n){"use strict";n.r(e);var t=n(7),i=Object(t.a)({},function(){var s=this.$createElement;return(this._self._c||s)("h1",[this._v("MOHAMED Idrissa")])},[],!1,null,null,null);i.options.__file="midrissa.vue";e.default=i.exports}}]);
