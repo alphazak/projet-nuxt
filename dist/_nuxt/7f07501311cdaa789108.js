@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{160:function(e,n,t){"use strict";t.r(n);var i=t(7),l=Object(i.a)({},function(){var e=this.$createElement;return(this._self._c||e)("h1",[this._v("Moussa Ali Profil")])},[],!1,null,null,null);l.options.__file="mali.vue";n.default=l.exports}}]);
